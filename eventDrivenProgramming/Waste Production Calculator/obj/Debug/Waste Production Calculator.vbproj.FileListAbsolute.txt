@@ -1,0 +1,30 @@
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\bin\Debug\Waste Production Calculator.exe.config
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.vbprojResolveAssemblyReference.cache
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmMenu.resources
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.Resources.resources
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.vbproj.GenerateResource.Cache
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.xml
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\bin\Debug\Waste Production Calculator.exe
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\bin\Debug\Waste Production Calculator.pdb
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\bin\Debug\Waste Production Calculator.xml
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.exe
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.pdb
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmHelp.resources
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmQuestion.resources
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmQuestion2.resources
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\bin\Debug\Waste Production Calculator.exe.config
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.exe
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.xml
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.pdb
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\bin\Debug\Waste Production Calculator.exe
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\bin\Debug\Waste Production Calculator.pdb
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\bin\Debug\Waste Production Calculator.xml
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.vbprojResolveAssemblyReference.cache
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmMenu.resources
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmHelp.resources
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmQuestion.resources
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmQuestion2.resources
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.Resources.resources
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste Production Calculator.vbproj.GenerateResource.Cache
+F:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmAgain.resources
+E:\Documents\Event Driven Programming\Waste Production Calculator\Waste Production Calculator\obj\Debug\Waste_Production_Calculator.frmAgain.resources
