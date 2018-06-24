@@ -1,0 +1,104 @@
+/*--- body ---*/
+body
+{
+   
+    		font-family: verdana, arial, helvetica;
+    		background-color: #000;
+
+}
+
+
+li>a:link, a:visited, a:active
+{
+			
+    		font-weight: bold;
+    		color: #5f6062;
+    		text-decoration: none;
+}
+
+li>a:hover
+{
+    		color: #fff;
+    		text-decoration:blink;
+}
+
+li		
+{		
+			display:inline;
+			padding-right:1%;
+}
+
+#focus
+{
+			color:#FFFFFF;
+}
+
+#wrapper
+{
+			margin:0 auto;
+			width:100%;
+}
+
+
+
+#header		
+{
+			width:100%;
+}
+
+#logo
+{		
+			margin-left:19%;
+			margin-top:2%;
+}
+
+#nav	
+{
+			margin-left:30%;
+			margin-top:-40px;
+			
+}
+
+
+#left		
+{
+			float:left;
+			width:45%;
+			background-colour:red;
+			background-image:url('../images/panel6image2.jpg');
+			background-repeat:no-repeat;
+			background-position:right;
+			height:500px;
+}
+
+			
+#right		
+{
+			float:right;
+			width:45%;
+			background-image:url('../images/panelswelcome_to_games_onl2.jpg');
+			background-repeat:no-repeat;
+			background-position:left;
+			height:500px;
+			margin-bottom:2%;
+			margin-right:5%;
+}
+			
+#login
+{			position:relative;
+			margin-top:70px;
+			margin-left:270px;
+}
+
+#blurb
+{
+			margin-left:240px;
+}
+#footer	
+{
+			clear:both;
+			text-align:center;
+			color:white; 
+			font-size:.80em;
+		
+}
